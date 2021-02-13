@@ -1,0 +1,46 @@
+{
+  "id": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Icanthearanybody-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "ImHavingaProblem-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What Kind of Problem are you Facing?",
+            "Is this and Audio, Visual, or Sharing Problem?",
+            "Whats not working, Sound, Visual/Camera, or Screen capture"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

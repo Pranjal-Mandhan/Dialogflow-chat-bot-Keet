@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8627e7e7-5f25-4223-96ad-f61651985a0d",
+    "data": [
+      {
+        "text": "I can\u0027t see anyone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c735774d-3435-4360-b3b4-c5ae1993820d",
+    "data": [
+      {
+        "text": "I can\u0027t see the screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e8238c1-fff2-41e6-a89d-ff011935d9f9",
+    "data": [
+      {
+        "text": "I can\u0027t see anybody\u0027s face",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f7149d9-e63c-4b56-a49b-4f3f8988ac2c",
+    "data": [
+      {
+        "text": "I can\u0027t see the class cameras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebb4f444-a37e-439d-a1a3-0bbb808ac60e",
+    "data": [
+      {
+        "text": "I can\u0027t see anybody\u0027s cameras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": "f0549d2d-e95b-420f-91ae-7f414df65b6f",
+    "data": [
+      {
+        "text": "I\u0027m Having a problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "586009e9-3166-46e6-83ed-ae21def0c25b",
+    "data": [
+      {
+        "text": "I can\u0027t see anybody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf73237a-7634-4e14-8707-e9bf26c126ea",
+    "data": [
+      {
+        "text": "This thing won\u0027t share my screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18fbb8d1-d343-4f3e-b7a7-c492bec7e289",
+    "data": [
+      {
+        "text": "I can\u0027t share my screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c103ef9-b0c1-47ef-8d1e-0340a6b612df",
+    "data": [
+      {
+        "text": "I can\u0027t hear anybody",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a68fc2d7-a1ef-45ec-9f30-297911981d34",
+    "data": [
+      {
+        "text": "my sound won\u0027t work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4a6bb2c-9367-4f8c-b919-1734cd74b227",
+    "data": [
+      {
+        "text": "my mic won\u0027t work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83d9d964-8e89-49de-b8ab-b068c8833e16",
+    "data": [
+      {
+        "text": "My teams chat isn\u0027t working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de0c911-3884-43c0-a8ed-1b27186959f0",
+    "data": [
+      {
+        "text": "Teams Chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66171240-6f39-4132-98a7-0616f4d44ecd",
+    "data": [
+      {
+        "text": "I\u0027m Not able to Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d18b4c9-8add-4522-81fc-4b453e9dd9eb",
+    "data": [
+      {
+        "text": "My Team members can\u0027t Hear me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89bc8e29-611d-4466-9a3b-defea041333b",
+    "data": [
+      {
+        "text": "My Meeting isn\u0027t working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a1894b6-2824-4728-86d0-eebb11a36709",
+    "data": [
+      {
+        "text": "My Teams chat isn\u0027t working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3687f793-e667-4cca-a6b6-9edbb243b39f",
+    "data": [
+      {
+        "text": "Meeting Chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e44d0f0-3be6-4784-9331-fac06b35994d",
+    "data": [
+      {
+        "text": "Microsoft",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Teams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74e679ae-9f52-4a45-b964-048ea8b16393",
+    "data": [
+      {
+        "text": "My Teams isn\u0027t working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

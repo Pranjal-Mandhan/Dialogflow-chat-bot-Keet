@@ -1,0 +1,46 @@
+{
+  "id": "373d17a9-7a7b-49c7-8fd0-a73a0ed5f773",
+  "parentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Visual",
+  "auto": true,
+  "contexts": [
+    "Icanthearanybody-followup",
+    "ImHavingaProblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom",
+      "affectedContexts": [
+        {
+          "name": "ImHavingaProblem-Visual-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "what kind of visual problem is this, You can\u0027t see anyone, no one can see you, overall bad streaming quality?",
+            "Is this an input issue, output issue, or bad quality issue?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

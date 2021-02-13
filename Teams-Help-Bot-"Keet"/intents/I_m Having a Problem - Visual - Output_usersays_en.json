@@ -1,0 +1,80 @@
+[
+  {
+    "id": "52a856bd-0baf-493f-85a0-4a062ee87830",
+    "data": [
+      {
+        "text": "I can\u0027t see my camera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e59d94-4a20-4ad7-aa50-aef7468a8d01",
+    "data": [
+      {
+        "text": "My team can\u0027t see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3445a854-be58-4589-8d6b-615ec0f5ba33",
+    "data": [
+      {
+        "text": "my Class can\u0027t see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59149d00-7146-4f0d-8398-d3d786f8161b",
+    "data": [
+      {
+        "text": "My camera won\u0027t work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06939d56-ffe2-4a30-86b3-e858dcb358ae",
+    "data": [
+      {
+        "text": "They can\u0027t see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "845facfd-12bf-4ce8-8a51-74cd4b2f50ae",
+    "data": [
+      {
+        "text": "My friends can\u0027t see me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

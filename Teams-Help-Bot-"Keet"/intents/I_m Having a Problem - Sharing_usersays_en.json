@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c7d579ea-d481-464c-8168-00bc1468f733",
+    "data": [
+      {
+        "text": "no one can share their screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6197b888-02a6-4c31-820a-973173075293",
+    "data": [
+      {
+        "text": "my participants can\u0027t share their screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda487b0-1507-465c-bdec-e97c66b03554",
+    "data": [
+      {
+        "text": "I can\u0027t share my screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "019fa586-81cd-4c85-b180-ea8ae34afd02",
+    "data": [
+      {
+        "text": "Screen sharing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04712424-ed91-452c-80a2-2d0cbdb21d74",
+    "data": [
+      {
+        "text": "Sharing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

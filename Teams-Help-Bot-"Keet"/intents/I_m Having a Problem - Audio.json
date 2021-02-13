@@ -1,0 +1,46 @@
+{
+  "id": "51e51eac-23b1-4066-94d7-6f231b2d5786",
+  "parentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Audio",
+  "auto": true,
+  "contexts": [
+    "Icanthearanybody-followup",
+    "ImHavingaProblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom",
+      "affectedContexts": [
+        {
+          "name": "ImHavingaProblem-Audio-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What kind of audio issue is it? you hearing others, others hearing you, or overall bad audio?",
+            "is it an input, output, or overall bad quality sound issue?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

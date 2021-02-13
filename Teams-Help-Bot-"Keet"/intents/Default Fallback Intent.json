@@ -1,0 +1,47 @@
+{
+  "id": "79ab1684-8b02-4f45-b157-e83520f06032",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?",
+            "Question not solved? Try the Microsoft Teams community page: https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

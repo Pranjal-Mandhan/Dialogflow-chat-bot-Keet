@@ -1,0 +1,39 @@
+{
+  "id": "e8ec8636-08d8-4a36-8679-9503a401bc43",
+  "parentId": "373d17a9-7a7b-49c7-8fd0-a73a0ed5f773",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Visual - Input",
+  "auto": true,
+  "contexts": [
+    "ImHavingaProblem-Visual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom.ImHavingaProblem-Visual-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is typically a wifi related issue see if your modem can handle whats required from Microsoft Teams, it\u0027s also beneficial to move from the browser application to the desktop application. Question not answered? Try the Microsoft Community Page! https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

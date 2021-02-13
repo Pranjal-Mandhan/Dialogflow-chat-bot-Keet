@@ -1,0 +1,45 @@
+{
+  "id": "33343f01-0bda-4566-a942-1db4bb9ffbe8",
+  "parentId": "51e51eac-23b1-4066-94d7-6f231b2d5786",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Audio - Input",
+  "auto": true,
+  "contexts": [
+    "ImHavingaProblem-Audio-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom.ImHavingaProblem-Audio-custom",
+      "affectedContexts": [
+        {
+          "name": "ImHavingaProblem-Audio-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If your Audio isn\u0027t working you can try a couple of things! 1.First check your settings to see if Teams has access to your mic (if you\u0027re on the browser  client see that the website has access to these items) 2. in the little gear icon and check your input device 3. check your teams wifi, it may not be strong enough to handle large groups of input. Still need help? Check out the Microsoft Teams Community page! https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "36b3fb4f-20a2-4cd8-a97a-672a85cd8f28",
+  "parentId": "51e51eac-23b1-4066-94d7-6f231b2d5786",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Audio - Output",
+  "auto": true,
+  "contexts": [
+    "ImHavingaProblem-Audio-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom.ImHavingaProblem-Audio-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Theres a couple things you can do! 1. Check your wifi you may be having a laggy experience and thus the audio is distorted try Turing off other applications that may be taking up energy 2. check your output device in the setting you may be using the wrong one. Still confused? Try the Microsoft Teams Community Page! https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e4319c49-d3be-420b-8481-084a10f45799",
+  "parentId": "373d17a9-7a7b-49c7-8fd0-a73a0ed5f773",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Visual - Output",
+  "auto": true,
+  "contexts": [
+    "ImHavingaProblem-Visual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom.ImHavingaProblem-Visual-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Theres a couple things you can do in this case! |1. Check in you device settings that Teams has access to your camera, if Teams isn\u0027t allowed to use your camera then your camera can\u0027t be used to display anything |2. Check that nothing is blocking your camera |3. if your device has multiple camera inputs either change your default input through your computer settings or go the the little gear at the top of your meeting to change which input device it\u0027s using. Doesn\u0027t work? Try the Microsoft Teams Community Page! https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

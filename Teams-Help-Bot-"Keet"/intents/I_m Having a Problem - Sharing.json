@@ -1,0 +1,41 @@
+{
+  "id": "6b4f30bd-e25b-440d-8f7a-dab0cdad3335",
+  "parentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "rootParentId": "759cf86d-2a80-44d7-8f6a-3281cd38e04d",
+  "name": "I\u0027m Having a Problem - Sharing",
+  "auto": true,
+  "contexts": [
+    "Icanthearanybody-followup",
+    "ImHavingaProblem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ImHavingaProblem.ImHavingaProblem-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you or a friend are having trouble sharing your screen you can check three things!\n1. check your computer privacy settings does Teams or the browser you\u0027re using have access to seeing and manipulating your screen?\n2. do you have permission? in some organizations the host of the team only has approved members share their screen \n3. if you\u0027re on a browser it may not have the capabilities to display your screen, try switching to the desktop app!\n\nIf the quality of your display is poor\n4.check your wifi capabilities streaming takes a lot of upload speed (and your friend\u0027s download speed).\n\nOther reasons \n5.outdated Microsoft Teams make sure you have the latest version!\n\nNone of these help? \nConsider the Microsoft Community Website! https://answers.microsoft.com/en-us/msteams/forum?sort\u003dLastReplyDate\u0026dir\u003dDesc\u0026tab\u003dAll\u0026status\u003dall\u0026mod\u003d\u0026modAge\u003d\u0026advFil\u003d\u0026postedAfter\u003d\u0026postedBefore\u003d\u0026threadType\u003dAll\u0026isFilterExpanded\u003dfalse\u0026page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
